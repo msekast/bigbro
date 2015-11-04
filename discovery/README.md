@@ -8,7 +8,11 @@ The world wide leading mobile operating system is Android, therefor the primary 
 
 Scope
 -----
-The scope of this project is a working prototype. The prototype will display an appropriately prepared large 3D model. The 3D model has to be explorable by navigating and by looking around. Example data used in this prototype will not be shared or published. The prototype should provide a touch and user friendly navigation functionality. The focus of the work will be to provide a fully working 3D viewer, highly interactive and fast. The viewer software should be developed in a componentized  manner, so that this mobile viewer component can be customized and reused. The project software provided will have a MIT license, but interacting cloud service parts and data will not be published and solely used for development and presentation purposes.
+The scope of this project is a working prototype. The prototype will display an appropriately prepared large 3D model. The 3D model has to be explorable by navigating and by looking around. Example data used in this prototype will not be shared or published. The prototype should provide a touch and user friendly navigation functionality. The focus of the work will be to provide a fully working 3D viewer, highly interactive and fast. The viewer software should be developed in a componentized  manner, so that this mobile viewer component can be customized and reused. The project software provided will have a MIT license.
+
+Disclaimer on cloud service parts
+---------------------------------
+This project will focus on the client side software and define a set of interfaces that it requires to communicate with a cloud component. The interacting cloud service parts and data will not be published and solely used for development and presentation purposes. This component will not be part of the prototype and might be hard wired to a given set of models or entirely mocked.
 
 Deliverables
 ------------
