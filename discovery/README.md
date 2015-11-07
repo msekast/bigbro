@@ -4,7 +4,7 @@ Goal of this project is the creation of a software to display a very large 3D mo
 
 Target platform
 ---------------
-The world wide leading mobile operating system is Android, therefor the primary platform for this project will be Android as well. Ideally the application developed should be as easy as possible portable to other mobile operating systems, such as iOS.
+This project should target all major mobile platforms, this includes in paticular Android, iOS and Web. It is also part of this project to find the best way to acheive this, from a technical but from a practical point of view as well. Ideally the application developed should be as easy as possible portable to other mobile platforms. Hovewer there will be no compromise in performance and usability in favor of portability. 
 
 Scope
 -----
