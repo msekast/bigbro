@@ -1,6 +1,14 @@
-Project – 3D mobile: Minimize data transferred and memory footprint on mobile device
-====================================================================================
-Goal of this project is the creation of a software to display a very large 3D model on a mobile device with a minimal memory footprint and a minimal amount of 3D model data transferred over the network. On the mobile device side a fast and slim visualization technique has to be developed within an application which is capable to navigate in 3D. For transferring the model data from a cloud component to the mobile device a mechanism has to be invented, which minimizes the amount of data transferred over the network. On the cloud a component has to provide and prepare the 3D model information in a way that makes consumption possible over the network, this component will be part of the project but focus of the project is the mobile device side.
+# Explore large 3D city model on mobile devices togehter
+
+## Vision
+
+Goal of this project is to allow multiple persons to explore a large city model from their mobile devices, alone and toghether. It provides easy navigation in a mobile device fashion and a multi player mode, where exploration happens together, sharing the same view in real time.
+
+## Minimize data transferred and memory footprint on mobile device
+Needed for this project is the creation of a software to display a very large 3D model on a mobile device with a minimal memory footprint and a minimal amount of 3D model data transferred over the network. On the mobile device side a fast and slim visualization technique has to be developed within an application which is capable to navigate in 3D. For transferring the model data from a cloud component to the mobile device a mechanism has to be invented, which minimizes the amount of data transferred over the network. On the cloud a component has to provide and prepare the 3D model information in a way that makes consumption possible over the network, this component will be part of the project but focus of the project is the mobile device side.
+
+## Real time interaction between multiple viewers
+Coordination of naviagtion between multiple viewers in real time has to happen. This will allow users to interactively explore the model from their own mobile device toghether, showing each other around or pointing each other to a point of interest.
 
 Target platform
 ---------------
