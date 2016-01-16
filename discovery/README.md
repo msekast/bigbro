@@ -4,7 +4,7 @@ Goal of this project is the creation of a software to display a very large 3D mo
 
 Target platform
 ---------------
-The world wide leading wearable operating system is Android, therefor the primary platform for this project will be Android as well. Ideally the application developed should be as easy as possible portable to other wearable operating systems, such as iOS.
+The wearable is market is emerging, but there are the mobile iOS and the Android platforms which seem at the moment to be promising platforms for wearables as well. Ideally the application developed should be as easy as possible portable to both of these platforms. One of the two platforms will be chosen as the target platform for this project as we go.
 
 Scope
 -----
