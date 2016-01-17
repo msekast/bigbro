@@ -12,7 +12,7 @@ User Experience
 
 Target platform
 ---------------
-The wearable market is emerging, but there are the mobile iOS and the Android platforms which seem at the moment to be promising platforms for wearables as well. Ideally the application developed should be as easy as possible portable to both of these platforms. One of the two platforms will be chosen as the target platform for this project as we go.
+The wearable market is emerging, but there are the mobile iOS and the Android platforms which seem at the moment to be promising platforms for wearables as well. Tizen seems to become a serious challanger of these established platforms with interesting perspecitves. Ideally the application developed should be as easy as possible portable to all of these platforms. One of the three platforms will be chosen as the main target platform for this project as we go.
 
 Disclaimer on cloud service parts
 ---------------------------------
