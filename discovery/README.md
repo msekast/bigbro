@@ -8,7 +8,7 @@ The scope of this project is a working prototype. The prototype will display an 
 
 User Experience
 ---------------
-3D navigation is hard, on mobile devices. It is already much harder on smart phone devices than on desktops without the pointing devices available there. It is even harder on wearable devices, where the display is even smaller than on phones or tablets. The user experience for wearable 3D application is as of today a not very well explored area. UX for full free 3D navigation is a thing that has to be tailored for wearable devices. By adapting the navigation to wearable devices, the goal has to be to limit the functionality in a way that the user will not have the impression of limitation, but instead of a simplification. From a technical point of view we have to make use of this fact for optimization on the computing side to deliver an overall satisfying user experience.
+3D navigation is hard on mobile devices. It is already much harder on smart phone devices than on desktops without the pointing devices available there. It is even harder on wearable devices, where the display is even smaller than on phones or tablets. The user experience for wearable 3D application is as of today a not very well explored area. UX for full free 3D navigation is a thing that has to be tailored for wearable devices. By adapting the navigation to wearable devices, the goal has to be to limit the functionality in a way that the user will not have the impression of limitation, but instead of a simplification. From a technical point of view we have to make use of this fact for optimization on the computing side to deliver an overall satisfying user experience.
 
 Target platform
 ---------------
