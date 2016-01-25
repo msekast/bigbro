@@ -1,5 +1,24 @@
-Project – 3D wearable: Minimize data transferred and memory footprint on wearable device
-========================================================================================
+Project – 3D wearable
+=====================
+
+Use Case
+--------
+Users are creating big city models for conceptual planning of infrastructure projects.
+
+Maintanance workers would like to get onsite details about planned installations in 3D.
+
+
+- weiterhin ein grosses Stadtmodell
+- Wartungs-Mitarbeiter muss technische Installation überprüfen (z.B. Elektro-Schrank)
+- Vor Ort kann er nun Hinzoomen sowie Details zum Inneren des Schaltschranks in 3D abrufen
+- Kombiniertes Szenario: SmartPhone 3D Viewing für den Weg dahin
+- SmartWatch Visualisierung/Navigation für die Vor-Ort-Wartungsarbeit am Gerät/im Gebäude (da keine Hand frei)  
+- Evtl. Zusammenspiel von SmartPhone (GPS-Ortung, Grob-Navigation)) und SmartWatch (Feinnavigation)
+  nutzen
+—> Kombiniertes Anwendung-Szenario mit SmartPhone & SmartWatch
+
+Minimize data transferred and memory footprint on wearable device
+=================================================================
 Goal of this project is the creation of a software to display a very large 3D model on a wearable device with a minimal memory footprint and a minimal amount of 3D model data transferred over the network. On the wearable device side a fast and slim visualization technique has to be developed within an application which is capable to navigate in 3D. For transferring the model data from a cloud component to the wearable device a mechanism has to be invented, which minimizes the amount of data transferred over the network. On the cloud a component has to provide and prepare the 3D model information in a way that makes consumption possible over the network, this component will be part of the project but focus of the project is the wearable device side.
 
 Scope
