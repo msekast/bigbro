@@ -7,11 +7,11 @@ Today users are creating big city models for conceptual planning of infrastructu
 
 ![city model export](wearable_export.png)
 
-For consumation on wearable devices the model has to be exported, which will prepare the data for consumation on mobile and wearable devices.
+The users are defining <i>point of interests</i> in these huge 3D models. For consumation on wearable devices the model has to be exported, which will prepare the data for consumation on mobile and wearable devices.
 
 ![warable view](wearable_view.png)
 
-Maintanance workers onsite will be able to get details about planned installations in 3D on a wearable device. The model can be explored in conjunction with a smart phone as well.
+Maintanance workers onsite will be able to get details about planned or existing installations in 3D on a wearable device if they don't have a hand free. The model can be explored in conjunction with a smart phone as well for a more overall exploration of the situation in the model.
 
 Minimize data transferred and memory footprint on wearable device
 =================================================================
