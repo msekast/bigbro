@@ -3,15 +3,15 @@ Project – 3D wearable
 
 Use Case
 --------
-Users are creating big city models for conceptual planning of infrastructure projects. For consumation of on wearable devices the model has to be exported, which will prepare the data for consumation on mobile and wearable devices.
+Today users are creating big city models for conceptual planning of infrastructure projects in industry standard software.
 
 ![city model export](wearable_export.png)
 
-Maintanance workers onsite will be able to get details about planned installations in 3D on a wearable device.
+For consumation on wearable devices the model has to be exported, which will prepare the data for consumation on mobile and wearable devices.
 
 ![warable view](wearable_view.png)
 
-The model can be explored in conjunction with a smart phone.
+Maintanance workers onsite will be able to get details about planned installations in 3D on a wearable device. The model can be explored in conjunction with a smart phone as well.
 
 Minimize data transferred and memory footprint on wearable device
 =================================================================
