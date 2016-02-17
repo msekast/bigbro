@@ -1,6 +1,10 @@
 Project – 3D wearable
 =====================
 
+Story
+-----
+![Story](comic.jpg)
+
 Use Case
 --------
 Today users are creating big city models for conceptual planning of infrastructure projects in industry standard software.
